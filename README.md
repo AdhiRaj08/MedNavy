@@ -18,10 +18,10 @@ MedNavy focuses on transforming patient inputs into actionable healthcare recomm
 ## Technology Stack
 - Frontend:
 
-  -- HTML, CSS, and JavaScript: Forms the foundation of the user interface, providing a robust and dynamic front-end experience.
+  - HTML, CSS, and JavaScript: Forms the foundation of the user interface, providing a robust and dynamic front-end experience.
   
 - Backend:
 
-  -- Django: Manages user data and handles requests efficiently, forming the backbone of the server-side operations.
-  -- Flask: Serves the machine learning model and processes predictions, acting as the bridge between the frontend and the ML model.
+  - Django: Manages user data and handles requests efficiently, forming the backbone of the server-side operations.\
+  - Flask: Serves the machine learning model and processes predictions, acting as the bridge between the frontend and the ML model.
 - Natural Lnaguage Processing: \[Custom Transformer Model] A specialized model designed for high-accuracy disease prediction based on text classification of symptoms.
